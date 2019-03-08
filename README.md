@@ -7,7 +7,7 @@ This is a real-world sample of a design challenge our agency has faced. It's int
 
 Hey Designer!
 
-Pretend am one of your fellow team-members at better. I am a developer working on a form for an application process. In this application potential participants are signing up for a health improvement program. I attached a screenshot of the current prototype below. I outlined some of my challenges below and I would love your thoughts on it.
+Pretend I one of your fellow team-members at better. I am a developer working on a form for an application process. In this application potential participants are signing up for a health improvement program. I attached a screenshot of the current prototype below. I outlined some of my challenges below and I would love your thoughts on it.
 
 - The project manager already confirmed the client requires every field on this form. We can't cut down the questions at all.
 - I am attempting to adapt this to mobile and it's unusable.
