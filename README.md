@@ -26,6 +26,6 @@ This user experience is frustrating, do you have any thoughts on how to improve 
 
 Ideally, you can open an issue in this repository. Treat it as an open project, our team will collaborate with you to refine the concepts. If you want to get clarification on a challenge or a specific point open an issue and ask! We'd love to work together to think through this design problem. We can both get a feel for each other in the process. 
 
-**Although we prefer a public submission - we understand that could be akward if you are currently employed. If that's the case you can email your submission to john@withbetter.com - please treat it in the same way, an open design challenge we are collaborating on.**
+**Although we prefer a public submission - we understand that could be awkward if you are currently employed. If that's the case you can email your submission to john@withbetter.com - please treat it in the same way, an open design challenge we are collaborating on.**
 
 
