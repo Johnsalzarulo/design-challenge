@@ -24,6 +24,8 @@ This user experience is frustrating, do you have any thoughts on how to improve 
 
 ### To send in a submission
 
-Ideally, you can open an issue in this repository. Treat it as an open project, our team will collaborate with you to refine the concepts. If you want to get clarification on a challenge or a specific point open an issue and ask! We'd love to work together to think through this design problem. We can both get a feel for each other in the process. **Or, If you would prefer to have a private submission. Email it to john@withbetter.com - please treat it in the same way, an open design challenge we are collaborating on.**
+Ideally, you can open an issue in this repository. Treat it as an open project, our team will collaborate with you to refine the concepts. If you want to get clarification on a challenge or a specific point open an issue and ask! We'd love to work together to think through this design problem. We can both get a feel for each other in the process. 
+
+**Although we prefer a public submission - we understand that couple be akward if you are currently employed. If that's the case you can email your submission to john@withbetter.com - please treat it in the same way, an open design challenge we are collaborating on.**
 
 
